@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3p8IMMqCIAqQnjcJC70lIJVIzp7rEyN4WyUsB+YPoK3H1KJipORoQG6QDDsMNtB587nl+2VSq7S+gTCAMqowg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yentl\\source\\repos\\formrecognizer-quickstart\\formrecognizer-quickstart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yentl\\.nuget\\packages\\azure.ai.formrecognizer\\3.1.0-beta.1\\azure.ai.formrecognizer.3.1.0-beta.1.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\yentl\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
